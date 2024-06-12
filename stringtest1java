@@ -1,0 +1,29 @@
+public class stringtest1 {
+    public static void main(String[] args) {
+        
+        String str1= " om sinha ";
+        String str9= " om sinha "; 
+        String str2 = "mohmmad danyaal";
+        String str3 = "md bali";
+       int str=str3.length();
+     String  str5=str3.toUpperCase();
+     String str4=str2.toLowerCase();
+     String str6=str1.trim();
+     String str7=str2.substring(2,6);
+     boolean f=str3.startsWith("md");
+     char ch=str1.charAt(7);
+     int i=str1.lastIndexOf("");
+        boolean t=str1.equals(str2);
+        int j=str1.compareTo(str2);
+       System.out.println(str5);
+       System.out.println(str4);
+        System.out.println(str6);
+        System.out.println(str);
+        System.out.println(str7);
+        System.out.println(f);
+        System.out.println(ch);
+        System.out.println(i);
+        System.out.println(t);
+        System.out.println(j);
+    }
+}
