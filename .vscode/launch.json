@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "j2",
+            "request": "launch",
+            "mainClass": "j2",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
             "name": "DateTimeFormatter",
             "request": "launch",
             "mainClass": "DateTimeFormatter",
