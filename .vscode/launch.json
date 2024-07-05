@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentGUI",
+            "request": "launch",
+            "mainClass": "StudentGUI",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "serilization_4",
+            "request": "launch",
+            "mainClass": "serilization_4",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "ObjectDemo",
+            "request": "launch",
+            "mainClass": "ObjectDemo",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "serilization_1",
+            "request": "launch",
+            "mainClass": "serilization_1",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "file1",
+            "request": "launch",
+            "mainClass": "file1",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "fi",
+            "request": "launch",
+            "mainClass": "fi",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "file",
+            "request": "launch",
+            "mainClass": "file",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "RandomAccessDemo",
+            "request": "launch",
+            "mainClass": "RandomAccessDemo",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "PipedDemo",
+            "request": "launch",
+            "mainClass": "PipedDemo",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "PippedDemo",
+            "request": "launch",
+            "mainClass": "PippedDemo",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "Buffer_Input",
+            "request": "launch",
+            "mainClass": "Buffer_Input",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "ByteArray",
+            "request": "launch",
+            "mainClass": "ByteArray",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "InputOutput",
+            "request": "launch",
+            "mainClass": "InputOutput",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "Database",
+            "request": "launch",
+            "mainClass": "Database",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "j2",
             "request": "launch",
             "mainClass": "j2",
