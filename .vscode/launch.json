@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "awt_prg7",
+            "request": "launch",
+            "mainClass": "awt_prg7",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "awt_prg6",
+            "request": "launch",
+            "mainClass": "awt_prg6",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "awt_prg5",
+            "request": "launch",
+            "mainClass": "awt_prg5",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
+            "name": "awt_prg1",
+            "request": "launch",
+            "mainClass": "awt_prg1",
+            "projectName": "java_P_1885b9da"
+        },
+        {
+            "type": "java",
             "name": "StudentGUI",
             "request": "launch",
             "mainClass": "StudentGUI",
