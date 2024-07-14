@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 class MyFrame extends Frame implements WindowListener
-{
+{//WindowListener
     Label l1;
     MyFrame()
     {

@@ -2,7 +2,7 @@
 import java.awt.*;
 
 class MyFrame extends Frame implements Runnable
-{
+{//Animation
     int x,y,x1,y1,x2,y2,y3,tx,ty,tx1,ty1;
     
     MyFrame()

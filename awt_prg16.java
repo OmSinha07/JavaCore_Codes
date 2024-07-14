@@ -5,7 +5,7 @@ import java.awt.event.*;
 
 
 class MyFrame extends Frame implements ItemListener,WindowListener
-{   
+{   //Checkbox,radioBox
     Button b1,b2,b3;
     
     TextField t1,t2,t3;

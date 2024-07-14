@@ -4,7 +4,7 @@ class MyFrame extends Frame implements MouseListener,MouseMotionListener
 {
     Label l1,l2;
     public MyFrame()
-    {
+    {//Mouse Listener
         super("Mouse");
         l1=new Label("");
         l2=new Label("");

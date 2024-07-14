@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 class MyFrame extends Frame
-{
+{//Animation
    
    int x=0,y=0;
   

@@ -13,7 +13,7 @@ class MyFrame extends Frame
     TextField tf;
     
     MyFrame()
-    {
+    {//MenuBar
         super("Menu Demo");
         
         open=new MenuItem("Open");

@@ -6,7 +6,7 @@ import java.awt.event.*;
 
  
 class MyWindowAdapter extends WindowAdapter    
-{
+{//Clsoing WIndow
         public void windowClosing(WindowEvent we)
         {
             System.exit(0);
